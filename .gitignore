@@ -1,12 +1,2 @@
-# Modelsim
-*.mpf
-work/
-
-# Altera Quartus II
-altera/
-db/
-incremental_db/
-output_files/
-simulation/
-*.qpf
-*.qsf
+*
+!*.vhd
